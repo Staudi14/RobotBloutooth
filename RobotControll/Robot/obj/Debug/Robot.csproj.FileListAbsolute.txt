@@ -1,0 +1,10 @@
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\bin\Debug\Robot.exe.config
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\bin\Debug\Robot.exe
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\bin\Debug\Robot.pdb
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.Form1.resources
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.exe
+c:\Users\Christian\Documents\Visual Studio 2017\Projects\Robot\Robot\obj\Debug\Robot.pdb

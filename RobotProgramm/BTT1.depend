@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1509030567 source:d:\fsst\bt\btt1\fuse.c
+	<avr/io.h>
+
+1509181574 source:d:\fsst\bt\btt1\main.c
+	"UART.h"
+
+1509180729 d:\fsst\bt\btt1\uart.h
+	<avr/io.h>
+
+1509183562 source:d:\fsst\bt\btt1\uart.c
+	"UART.h"
+
+1498128377 source:d:\fsst\bt\btt1\lcd1zeil.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCD1zeil.h"
+
+1496916863 d:\fsst\bt\btt1\lcd1zeil.h
+
